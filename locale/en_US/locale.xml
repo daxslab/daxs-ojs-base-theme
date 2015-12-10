@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/daxsBase/locale/en_US/locale.xml
+  *
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings
+  -->
+ 
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.theme.daxsBase.name">daxsBase Theme Plugin</message>
+	<message key="plugins.theme.daxsBase.description">This plugin implements a daxsBase theme.</message>
+	<message key="plugins.theme.daxsBase.notWritable">NOTE: This plugin's stylesheet file, "{$stylesheetFileLocation}", is not currently writable. This file must be writable before the plugin can be used.</message>
+	<message key="plugins.theme.daxsBase.settings">Settings</message>
+	<message key="plugins.theme.daxsBase.pickColour">Pick Colour</message>
+	<message key="plugins.theme.daxsBase.header">Header</message>
+	<message key="plugins.theme.daxsBase.link">Link</message>
+	<message key="plugins.theme.daxsBase.background">Background</message>
+	<message key="plugins.theme.daxsBase.foreground">Foreground</message>
+	<message key="plugins.theme.daxsBase.user.myProfile">My Profile</message>
+	<message key="plugins.theme.daxsBase.user.logout">Log Out</message>
+	<message key="plugins.theme.daxsBase.user.signOutAsUser">Log Out as User</message>
+	<message key="plugins.theme.daxsBase.user.rememberMe">Remember me</message>
+</locale>

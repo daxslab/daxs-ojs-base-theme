@@ -1,0 +1,67 @@
+a{color:#375;text-decoration:none}
+a:hover{color:#253;background:none repeat scroll 0 0 #cdc}
+a:link{color:#375}
+p{margin-top:10px;margin-bottom:10px}
+input{padding:6px 12px;font-size:14px;line-height:1.428571429;color:#555;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,0.075);box-shadow:inset 0 1px 1px rgba(0,0,0,0.075);-webkit-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;-o-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}
+.button{color:#333;background-color:#fff;border-color:#ccc}
+.button:hover{background-color:#dedede}
+select{-webkit-appearance:menulist;box-sizing:border-box;align-items:center;border:1px solid;border-image-source:initial;border-image-slice:initial;border-image-width:initial;border-image-outset:initial;border-image-repeat:initial;white-space:pre;-webkit-rtl-ordering:logical;color:#000;cursor:default;display:block;height:34px;padding:7px 12px;font-size:14px;line-height:1.428571429;color:#555;vertical-align:middle;background-color:#fff;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,0.075);box-shadow:inset 0 1px 1px rgba(0,0,0,0.075);-webkit-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}
+#container{background-color:#fbfbf3}
+#header{background-color:#aba}
+#headerTitle h1{margin:0}
+#mainmenu{background-color:#aba;border-color:#aba}
+#mainmenu button{max-height:34px}
+#content-header{margin-bottom:20px;font-size:.8em;}
+#homepageImage img{max-width:100%;display:block;height:auto}
+img{display:block;max-width:100%;height:auto}
+#issue-toc article,#issue-current-home article{border-bottom:2px solid #eee;margin-bottom:20px}
+#issue-toc article a.issue-cover,#issue-current-home article a.issue-cover{position:relative;float:left;width:16.6667%;min-height:1px;padding-left:15px;padding-right:0 !important}
+#issue-toc article a.issue-cover img,#issue-current-home article a.issue-cover img{display:block;max-width:100%;height:auto;padding:2px;border:1px solid #c6c6c6;opacity:.8;box-shadow:2px 2px 2px #d6d6d6;transition:all .35s ease 0}
+#issue-toc article div.article-data.article-data-right,#issue-current-home article div.article-data.article-data-right{position:relative;float:left;width:83.3333%;min-height:1px;padding-left:15px;padding-right:15px}
+#issue-toc article footer,#issue-current-home article footer{color:#555;background-color:#f9f9f9;font-size:12px;padding-top:4px;text-align:right}
+#announcements-home article{border-bottom:2px solid #d5d5d3;padding-bottom:40px;margin-top:10px;}
+#announcements-home article div.announcement-data{position:relative;float:left;width:100%;min-height:1px;padding-left:15px;padding-right:15px}
+#announcements-home article div.announcement-data header a{font-family:Georgia,"Times New Roman",Times,serif;font-weight:bold;line-height:120%;font-size:1.2em}
+#announcements-home article div.announcement-data summary{padding-top:5px;padding-bottom:5px}
+#announcements-home article div.announcement-data summary img{width:80px !important;height:80px !important;float:right !important;padding:2px;border:1px solid #c6c6c6;opacity:.8;box-shadow:2px 2px 2px #d6d6d6;transition:all .35s ease 0}
+#announcements-home article footer div{position:relative;float:left;width:50%;min-height:1px;padding-left:15px;padding-right:15px;color:#555;background-color:#f9f9f9;font-size:12px;padding-top:4px}
+#announcements-home article footer div.footer-second{text-align:right}
+#announcementList article{border-bottom:2px solid #d5d5d3;padding-bottom:40px;margin-top:10px;}
+#announcementList article div.announcement-data{position:relative;float:left;width:100%;min-height:1px;padding-left:15px;padding-right:15px}
+#announcementList article div.announcement-data header a{font-family:Georgia,"Times New Roman",Times,serif;font-weight:bold;line-height:120%;font-size:1.2em}
+#announcementList article div.announcement-data summary{padding-top:5px;padding-bottom:5px}
+#announcementList article div.announcement-data summary img{width:80px !important;height:80px !important;float:right !important;padding:2px;border:1px solid #c6c6c6;opacity:.8;box-shadow:2px 2px 2px #d6d6d6;transition:all .35s ease 0}
+#announcementList article footer div{position:relative;float:left;width:50%;min-height:1px;padding-left:15px;padding-right:15px;color:#555;background-color:#f9f9f9;font-size:12px;padding-top:4px}
+#announcementList article footer div.footer-second{text-align:right}
+#announcementList .intro{margin-bottom:30px}
+#issue-toc article a{background:none}
+.issueCoverImage img{border:0 none;float:left;width:100px;margin:1em 1em 1em 0}
+.article-data{padding-left:15px}
+#headerTitle img.img-title{width:100%}
+#headerTitle img.img-logo{display:inline}
+#issue-toc article footer img{display:inline}
+#pageFooter{color:#000;background-color:#aba;padding-bottom:10px;margin-top:70px}
+#pageFooter a{color:#000;text-decoration:underline}
+#pageFooter a:hover{color:#000;background:none repeat scroll 0 0 #253}
+#pageFooter a:link{color:#000}
+td.label{color:#333}
+#languageSelector select{display:inline}
+#register input,#register select,#register textarea{max-width:300px}
+#register label{font-weight:normal}
+.form-group.actions{padding:19px 20px 20px;margin-top:20px;margin-bottom:20px;background-color:#f5f5f5;border-top:1px solid #e5e5e5;padding-left:180px}
+#formErrors,.pkp_form_error{margin:20px 0;padding:15px 30px 15px 15px;border-left:5px solid #eee;background-color:#fcf2f2;border-color:#dfb5b4}
+ul.tagit{padding:1px 5px;overflow:auto;margin-left:inherit;margin-right:inherit}
+.hidden{display:none}
+ul.tagit li{display:block;float:left;margin:2px 5px 2px 0}
+ul.tagit li.tagit-choice{padding:.2em 18px .2em .5em;position:relative;line-height:inherit}
+ul.tagit li.tagit-new{padding:.25em 4px .25em 0}
+ul.tagit li.tagit-choice a.tagit-label{cursor:pointer;text-decoration:none}
+ul.tagit li.tagit-choice .tagit-close{cursor:pointer;position:absolute;right:.1em;top:50%;margin-top:-8px}
+ul.tagit li.tagit-choice .tagit-close .text-icon{display:none}
+.ui-autocomplete .ui-menu-item a{font-size:.6em}
+ul.tagit li.tagit-choice input{display:block;float:left;margin:2px 5px 2px 0}
+ul.tagit input[type="text"]{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;border:none;margin:0;padding:0;width:inherit;background-color:inherit;outline:none}
+#reset .form-group div{padding-top:10px}
+#searchForm select{display:inline}
+#leftSidebar #sidebarUser,#rightSidebar #sidebarUser{display:none}
+@media (min-width:768px){.navbar-collapse{padding-left:15px !important;padding-right:15px !important}}.navbar{border-radius:0}

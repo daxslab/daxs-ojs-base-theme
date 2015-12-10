@@ -1,0 +1,11 @@
+.sidebar div.block{font-size:1em;padding-bottom:1.5em}
+.pkp_controllers_fontController_smallFont{background:url("../../../../lib/pkp/templates/images/icons/font-down.png") repeat scroll 0 0 transparent !important;outline:medium none;text-indent:-9999px;display:block;float:left;width:20px;height:23px}
+.pkp_controllers_fontController_defaultFont{background:url("../../../../lib/pkp/templates/images/icons/font-default.png") repeat scroll 0 0 transparent !important;outline:medium none;text-indent:-9999px;display:block;float:left;width:20px;height:23px}
+.pkp_controllers_fontController_largeFont{background:url("../../../../lib/pkp/templates/images/icons/font-up.png") repeat scroll 0 0 transparent !important;outline:medium none;text-indent:-9999px;display:block;float:left;width:20px;height:23px}
+#sizer a{outline:medium none;text-indent:-9999px;display:block;float:left;width:20px;height:23px;margin-right:4px;margin-left:8px}
+.sidebar div.block span.blockTitle{display:block;padding:0 0;font-size:1em;letter-spacing:.1em;text-transform:uppercase;width:100%;margin-bottom:20px;line-height:40px;color:#333;border:0;border-bottom:1px solid #e5e5e5}
+.sidebar div.separator{width:100%;margin-top:1em;margin-bottom:.25em;padding:0;border-bottom:1px dotted #000;font-size:.5em;line-height:25%}
+.sidebar .articleToolItem{margin-bottom:3px}
+.sidebar label{font-weight:normal}
+#sidebarRTArticleTools>.articleToolItem>a>img{width:24px;height:24px}
+.block img{display:inline}

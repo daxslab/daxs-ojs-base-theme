@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/themes/daxsBase/locale/es_ES/locale.xml
+  *
+  * Copyright (c) 2013 Simon Fraser University Library
+  * Copyright (c) 2003-2013 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the es_ES (Español (España)) locale.
+  *
+  -->
+ 
+<locale name="es_ES" full_name="Español (España)">
+	<message key="plugins.theme.daxsBase.name">Plugin de Temas daxsBase</message>
+	<message key="plugins.theme.daxsBase.description">Este plugin permite personalizar el tema de aspecto.</message>
+	<message key="plugins.theme.daxsBase.notWritable">NOTA: El fichero de hoja de estilos de este plugin, "{$stylesheetFileLocation}", no es escribible actualmente. Este fichero debe ser escribible antes de que el plugin pueda ser utilizado.</message>
+	<message key="plugins.theme.daxsBase.settings">Opciones</message>
+	<message key="plugins.theme.daxsBase.pickColour">Escoja un color</message>
+	<message key="plugins.theme.daxsBase.header">Encabezado</message>
+	<message key="plugins.theme.daxsBase.link">Enlace</message>
+	<message key="plugins.theme.daxsBase.background">Fondo</message>
+	<message key="plugins.theme.daxsBase.foreground">Primer plano</message>
+	<message key="plugins.theme.daxsBase.user.myProfile">Mi perfil</message>
+	<message key="plugins.theme.daxsBase.user.logout">Cerrar sesión</message>
+	<message key="plugins.theme.daxsBase.user.signOutAsUser">Cerrar sesión de usuario/a</message>
+	<message key="plugins.theme.daxsBase.user.rememberMe">No cerrar sesión</message>
+</locale>
